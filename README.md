@@ -1,7 +1,7 @@
 hi, taking your time reading read me file eh....
 nothing much to see here =)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=nightmire777)](https://github.com/nightmire777/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=nightmire777)](fauna)
 
 
 <!---
